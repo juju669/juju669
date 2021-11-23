@@ -14,7 +14,7 @@
 - 📫 How to reach me: juliancwilson24@gmail.com
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> What I've learned</h2>                                                                                                                       
+<h2> What I've learned</h2>                                                                                                                       
 
 <p>
 <img src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25">

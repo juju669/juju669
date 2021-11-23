@@ -1,6 +1,6 @@
 
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Social Media Handles</h2>
+<h2> My Social Media Handles</h2>
 <p>
   <a href="mailto:juliancwilson24@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https:https://www.linkedin.com/in/julian-wilson-b86692104/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
